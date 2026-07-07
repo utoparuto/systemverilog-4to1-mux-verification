@@ -95,9 +95,7 @@ systemverilog-4to1-mux-verification
 # Tools Used
 
 - SystemVerilog
-- Icarus Verilog
-- GTKWave
-- Git
+- EDA playground
 - GitHub
 
 ---
@@ -106,7 +104,7 @@ systemverilog-4to1-mux-verification
 
 The verification environment successfully validated the functionality of the 4:1 Multiplexer.
 
-Simulation waveforms were analyzed using GTKWave.
+Simulation waveforms were analyzed using EPWave/VCS.
 
 ## Simulation Waveform
 
@@ -143,7 +141,6 @@ Possible enhancements include:
 
 - SystemVerilog IEEE 1800 Standard
 - Digital Design and Computer Architecture – David Harris & Sarah Harris
-- Icarus Verilog Documentation
 - GTKWave Documentation
 
 ---
