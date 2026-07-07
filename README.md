@@ -150,7 +150,7 @@ Possible enhancements include:
 
 # Author
 
-**Harshitha**
+**Harshitha A**
 
 B.Tech – VLSI Design and Technology
 
